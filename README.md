@@ -11,7 +11,7 @@ workflow combined with executive-level analytical storytelling.
 
 ## Architecture
 
-![Data Pipeline Architecture]([resources/pipeline_architecture.png](https://github.com/AUSQLGOL/ETL-Data-Analysis-Japan-Birth-Data/blob/main/Resources/Data_Process_flowchart.png))
+![Data Pipeline Architecture](Resources/Data_Process_flowchart.png)
 
 ------------------------------------------------------------------------
 
